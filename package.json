@@ -174,7 +174,7 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run"
   },
-  "author": "",
+  "author": "Pavlo Potanin",
   "license": "ISC",
   "description": ""
 }
