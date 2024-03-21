@@ -1,7 +1,7 @@
 **Setup**
 Clone this repository:
 
-git clone https://ppotanin/automated-form-testing.git
+git clone https://github.com/ppotanin/qa-task.redvike.rocks
 
 
 **Install dependencies:**
