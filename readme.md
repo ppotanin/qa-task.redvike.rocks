@@ -1,7 +1,7 @@
 **Setup**
 Clone this repository:
 
-git clone https://your-github-url/automated-form-testing.git
+git clone https://ppotanin/automated-form-testing.git
 
 
 **Install dependencies:**
