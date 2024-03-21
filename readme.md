@@ -16,8 +16,8 @@ Open a terminal in the project directory.
 
 Start the Cypress test runner:
 
-`cypress open`
-`cypress run`
+`cypress open` or `npm run cypress:open`
+`cypress run` or `npm run cypress:run`
 
 **Test Cases**
 
